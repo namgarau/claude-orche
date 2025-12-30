@@ -1,5 +1,7 @@
 # Claude Agent Orchestration System
 
+[English](./README_EN.md) | 한국어
+
 AI 에이전트 기반 소프트웨어 개발 라이프사이클 관리 시스템
 
 ## 개요
