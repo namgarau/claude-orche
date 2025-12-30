@@ -4,7 +4,7 @@
 - 2025-12-30
 
 ## 검토 범위
-- `agents/` 디렉토리의 모든 `.md` 파일 (19개)
+- `agents/` 디렉토리의 모든 `.md` 파일 (23개)
 - orchestrator.md와 개별 에이전트 간 정합성
 - Markdown 형식 준수 여부
 
@@ -27,11 +27,15 @@
 | 4 개발 | architect | ✅ | 정상 |
 | 4 개발 | developer | ✅ | 정상 |
 | 4 개발 | ui-developer | ✅ | 정상 |
+| 4 개발 | code-reviewer | ✅ | 정상 |
 | 5 테스트 | tester | ✅ | 정상 |
 | 5 테스트 | security-auditor | ✅ | 정상 |
 | 5 테스트 | accessibility-auditor | ✅ | 정상 |
 | 5 테스트 | ui-qa | ✅ | 정상 |
+| 5 테스트 | performance-tester | ✅ | 정상 |
 | 5 테스트 | qa-engineer | ✅ | 정상 |
+| 6 배포 | devops-engineer | ✅ | 정상 |
+| 6 배포 | deployer | ✅ | 정상 |
 | 예외처리 | debugger | ✅ | 정상 |
 
 ### 추가 파일
@@ -88,12 +92,16 @@ Frontend: React 18, Next.js 14, TypeScript 5.3
 - ux-reviewer.md
 - developer.md
 - ui-developer.md
+- code-reviewer.md
 - tester.md
 - security-auditor.md
 - accessibility-auditor.md
 - ui-qa.md
+- performance-tester.md
 - qa-engineer.md
 - design-system-manager.md
+- devops-engineer.md
+- deployer.md
 - CLAUDE.md
 
 ---
